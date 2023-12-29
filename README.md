@@ -44,5 +44,5 @@ bash recon
 
 ## Authors
 
-- [@octokatherine](https://www.github.com/muhammad-shawon)
+- [@muhammad-shawon](https://www.github.com/muhammad-shawon)
 
