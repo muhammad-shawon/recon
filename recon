@@ -22,7 +22,7 @@ blue=#008AEA
 
 # Banner for this tool :
 
-gum style --foreground "$green" "                  --------------------<> Lucifer <>--------------------"
+gum style --foreground "$green" "                  --------------------<> Winzed <>--------------------"
 
 # Printing the Header : 
 
